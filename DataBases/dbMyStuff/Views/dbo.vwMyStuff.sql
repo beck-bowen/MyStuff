@@ -2,4 +2,4 @@
 	AS 
 
 	SELECT b.ID, b.MyColumn, b.MyTimeStamp
-	FROM MyStuff.Tst.MyStuff b
+	FROM Tst.MyStuff b
